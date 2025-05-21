@@ -1,0 +1,3 @@
+C:\Users\LENOVO\Desktop\Programs\SEM-2\C\MINESWEEPER\minesweeper\x64\Debug\raylib.dll
+C:\Users\LENOVO\Desktop\Programs\SEM-2\C\MINESWEEPER\minesweeper\x64\Debug\glfw3.dll
+C:\Users\LENOVO\Desktop\Programs\SEM-2\C\MINESWEEPER\minesweeper\minesweeper\x64\Debug\mineswee.CA0A8439.Up2Date

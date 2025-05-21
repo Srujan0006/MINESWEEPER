@@ -1,0 +1,37 @@
+﻿  main.c
+C:\Users\LENOVO\Desktop\Programs\SEM-2\C\MINESWEEPER\minesweeper\main.c(369,23): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\LENOVO\Desktop\Programs\SEM-2\C\MINESWEEPER\minesweeper\main.c(369,17): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\LENOVO\Desktop\Programs\SEM-2\C\MINESWEEPER\minesweeper\main.c(370,23): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\LENOVO\Desktop\Programs\SEM-2\C\MINESWEEPER\minesweeper\main.c(370,17): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\LENOVO\Desktop\Programs\SEM-2\C\MINESWEEPER\minesweeper\main.c(372,17): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\LENOVO\Desktop\Programs\SEM-2\C\MINESWEEPER\minesweeper\main.c(382,25): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\LENOVO\Desktop\Programs\SEM-2\C\MINESWEEPER\minesweeper\main.c(382,19): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\LENOVO\Desktop\Programs\SEM-2\C\MINESWEEPER\minesweeper\main.c(423,31): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\LENOVO\Desktop\Programs\SEM-2\C\MINESWEEPER\minesweeper\main.c(423,25): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\LENOVO\Desktop\Programs\SEM-2\C\MINESWEEPER\minesweeper\main.c(479,38): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\LENOVO\Desktop\Programs\SEM-2\C\MINESWEEPER\minesweeper\main.c(479,60): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\LENOVO\Desktop\Programs\SEM-2\C\MINESWEEPER\minesweeper\main.c(504,37): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\LENOVO\Desktop\Programs\SEM-2\C\MINESWEEPER\minesweeper\main.c(504,31): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\LENOVO\Desktop\Programs\SEM-2\C\MINESWEEPER\minesweeper\main.c(506,31): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\LENOVO\Desktop\Programs\SEM-2\C\MINESWEEPER\minesweeper\main.c(507,31): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\LENOVO\Desktop\Programs\SEM-2\C\MINESWEEPER\minesweeper\main.c(529,42): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\LENOVO\Desktop\Programs\SEM-2\C\MINESWEEPER\minesweeper\main.c(529,36): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\LENOVO\Desktop\Programs\SEM-2\C\MINESWEEPER\minesweeper\main.c(530,45): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\LENOVO\Desktop\Programs\SEM-2\C\MINESWEEPER\minesweeper\main.c(530,98): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\LENOVO\Desktop\Programs\SEM-2\C\MINESWEEPER\minesweeper\main.c(538,40): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\LENOVO\Desktop\Programs\SEM-2\C\MINESWEEPER\minesweeper\main.c(538,74): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\LENOVO\Desktop\Programs\SEM-2\C\MINESWEEPER\minesweeper\main.c(546,28): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\LENOVO\Desktop\Programs\SEM-2\C\MINESWEEPER\minesweeper\main.c(546,22): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\LENOVO\Desktop\Programs\SEM-2\C\MINESWEEPER\minesweeper\main.c(547,63): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\LENOVO\Desktop\Programs\SEM-2\C\MINESWEEPER\minesweeper\main.c(555,65): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\LENOVO\Desktop\Programs\SEM-2\C\MINESWEEPER\minesweeper\main.c(559,29): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\LENOVO\Desktop\Programs\SEM-2\C\MINESWEEPER\minesweeper\main.c(559,23): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\LENOVO\Desktop\Programs\SEM-2\C\MINESWEEPER\minesweeper\main.c(561,31): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\LENOVO\Desktop\Programs\SEM-2\C\MINESWEEPER\minesweeper\main.c(568,29): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\LENOVO\Desktop\Programs\SEM-2\C\MINESWEEPER\minesweeper\main.c(568,23): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\LENOVO\Desktop\Programs\SEM-2\C\MINESWEEPER\minesweeper\main.c(701,22): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\LENOVO\Desktop\Programs\SEM-2\C\MINESWEEPER\minesweeper\main.c(701,51): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\LENOVO\Desktop\Programs\SEM-2\C\MINESWEEPER\minesweeper\main.c(714,19): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  minesweeper.vcxproj -> C:\Users\LENOVO\Desktop\Programs\SEM-2\C\MINESWEEPER\minesweeper\x64\Debug\minesweeper.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
